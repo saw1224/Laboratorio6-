@@ -1,0 +1,19 @@
+body {
+    background: rgb(0, 0, 0); /* This will set the background color of the body element to red */
+  }
+  h1{
+        font-family:"Comic Sans MS", cursive; /* Cambia la fuente del h1 */
+          
+      
+      
+    color: rgb(255, 255, 255);
+  }
+  .carousel {
+    max-width: 1500px; /* Define el ancho máximo del carrusel */
+    margin: 0 auto; /* Centra el carrusel horizontalmente */
+  }
+  
+  .carousel-item img {
+    max-height: 500px; /* Define la altura máxima de las imágenes */
+    margin: 0 auto; /* Centra las imágenes horizontalmente */
+  }
