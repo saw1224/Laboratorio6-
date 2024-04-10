@@ -1,12 +1,12 @@
 body {
     background: rgb(0, 0, 0); /* This will set the background color of the body element to red */
   }
-  h1{
-        font-family:"Comic Sans MS", cursive; /* Cambia la fuente del h1 */
-          
-      
-      
+  h1,h5{
+        font-family:"Comic Sans MS", cursive; /* Cambia la fuente del h1 */ 
     color: rgb(255, 255, 255);
+  }
+  h5{
+    color: black;
   }
   .carousel {
     max-width: 1500px; /* Define el ancho máximo del carrusel */
@@ -17,3 +17,18 @@ body {
     max-height: 500px; /* Define la altura máxima de las imágenes */
     margin: 0 auto; /* Centra las imágenes horizontalmente */
   }
+
+  .bg-gray {
+    background-color: #686060; /* Cambiar el color de fondo a gris */
+  }
+  p{
+    color: black;
+  }
+  .parrafo1{
+color: rgb(255, 255, 255);
+  }
+  .carousel-item img {
+    max-width: 75%; /* Definir el ancho máximo de las imágenes */
+  }
+  
+  
