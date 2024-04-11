@@ -17,10 +17,6 @@ body {
     max-height: 500px; /* Define la altura máxima de las imágenes */
     margin: 0 auto; /* Centra las imágenes horizontalmente */
   }
-
-  .bg-gray {
-    background-color: #686060; /* Cambiar el color de fondo a gris */
-  }
   p{
     color: black;
   }
